@@ -1,4 +1,5 @@
 *.log
 DirLog/
 !error.log
+[0-9]*
 
