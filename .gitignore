@@ -2,4 +2,6 @@
 LogDir/
 !error.log
 [0-9]*
+.gitignore
+
 
